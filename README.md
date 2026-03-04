@@ -11,7 +11,7 @@ Welcome to my digital workspace! I'm passionate about web development, building 
 ---
 
 ### 🛠️ Tech Stack & Tools
-* HTML5 | CSS3 | JavaScript | ... (More coming soon)
+* HTML5 | CSS3 | JavaScript | PHP | ... (More coming soon)
 
 ---
 
