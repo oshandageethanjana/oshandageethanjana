@@ -31,3 +31,8 @@ Welcome to my digital workspace! I'm passionate about web development, building 
 - 🌐 **My Agency:** [WhiteCoder Official](https://www.whitecoder.online)
 - 📚 **EdTech Project:** [HND Study Hub](https://www.hndstudy.online)
 - 💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/oshanda-geethanjana-725574336/)
+
+---
+### 📊 GitHub Stats
+
+![Oshanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshandageethanjana&show_icons=true&theme=radical)
