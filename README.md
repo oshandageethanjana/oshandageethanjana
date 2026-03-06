@@ -33,6 +33,3 @@ Welcome to my digital workspace! I'm passionate about web development, building 
 - 💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/oshanda-geethanjana-725574336/)
 
 ---
-### 📊 GitHub Stats
-
-![Oshanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshandageethanjana&show_icons=true&theme=radical)
