@@ -21,15 +21,6 @@
 
 <br>
 
-## 📊 My GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oshandageethanjana&show_icons=true&theme=material-palenight&hide_border=true" alt="Oshanda's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshandageethanjana&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
