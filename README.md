@@ -1,35 +1,119 @@
-### Hi there, I'm Oshada Geethanjana 👋
-**Founder of WhiteCoder & HND Study Hub | AI Enthusiast | Tech Explorer**
+# 🚀 Oshada Geethanjana
 
-Welcome to my digital workspace! I'm passionate about web development, building robust digital infrastructure, and exploring the endless possibilities of Artificial Intelligence. I believe in "learning by doing," which is why I actively build platforms that create a real-world impact.
+### *Building the Future with Code, AI & Real-World Systems*
 
-- 🚀 Currently building and managing **[WhiteCoder](https://www.whitecoder.online)** (Digital Solutions) & **[HND Study Hub](https://www.hndstudy.online)** (Free Education Portal).
-- 🧠 Deeply interested in **Artificial Intelligence (AI)** and smart application development.
-- 🎓 IT Student at Sri Lanka Institute of Advanced Technological Education (SLIATE).
-- 💡 Constantly experimenting with new tech stacks and running complex logic.
-
----
-
-### 🛠️ Tech Stack & Tools
-**Languages & Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**AI & Databases:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Design & Tools:**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+```diff
++ Founder @ WhiteCoder
++ Creator @ HND Study Hub
++ AI Explorer | Full-Stack Developer | System Architect
+```
 
 ---
 
-### 📫 Connect with me:
-- 🌐 **My Agency:** [WhiteCoder Official](https://www.whitecoder.online)
-- 📚 **EdTech Project:** [HND Study Hub](https://www.hndstudy.online)
-- 💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/oshanda-geethanjana-725574336/)
+## 🌌 About Me
+
+I don’t just write code — I **build digital ecosystems**.
+
+I'm **Oshada Geethanjana**, an IT student at SLIATE and the mind behind platforms that solve real-world problems.
+
+> ⚡ “Execution beats theory. Build. Break. Learn. Repeat.”
 
 ---
+
+## 🧠 What I’m Focused On
+
+* 🚀 Scaling **WhiteCoder** into a premium digital solutions brand
+* 📚 Growing **HND Study Hub** as a free education ecosystem
+* 🤖 Exploring **AI-powered applications & automation systems**
+* ⚙️ Building **real-world SaaS platforms** using PHP, JS & MySQL
+
+---
+
+## 🏗️ Featured Projects
+
+### 🌐 WhiteCoder
+
+> Digital Solutions Agency
+> 🔗 https://www.whitecoder.online
+
+### 📚 HND Study Hub
+
+> Free IT Learning Platform
+> 🔗 https://www.hndstudy.online
+
+---
+
+## ⚙️ Tech Arsenal
+
+### 💻 Core Stack
+
+```yaml
+Frontend:
+  - HTML5
+  - CSS3 (Tailwind / Custom UI)
+  - JavaScript (Vanilla + AJAX)
+
+Backend:
+  - PHP
+
+Database:
+  - MySQL
+
+AI:
+  - Python
+```
+
+---
+
+## 🧰 Tools I Use
+
+* 🎨 Figma
+* 💻 VS Code
+* 🔧 Git
+
+---
+
+## 📊 Dev Philosophy
+
+```js
+while (alive) {
+  build();
+  breakThings();
+  learn();
+  upgrade();
+}
+```
+
+---
+
+## 🌍 Vision
+
+I’m building toward becoming a **Tech Founder** who creates:
+
+* Scalable SaaS Platforms
+* AI-driven Systems
+* Digital Products used by thousands
+
+---
+
+## 📡 Connect With Me
+
+* 🌐 Agency → https://www.whitecoder.online
+* 📚 EdTech → https://www.hndstudy.online
+* 💼 LinkedIn → https://www.linkedin.com/in/oshanda-geethanjana-725574336/
+
+---
+
+## ⚡ Signature Line
+
+> “Code is not just logic — it’s leverage.”
+
+---
+
+## ⭐ GitHub Stats (Optional)
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+```
