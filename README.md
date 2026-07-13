@@ -307,7 +307,7 @@ Through **HND Study Hub**, I aim to support students by making useful academic r
   <img src="https://img.shields.io/badge/LinkedIn-Oshanda%20Geethanjana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:oshanda@whitecoder.online">
+<a href="mailto:hello@oshanda.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
