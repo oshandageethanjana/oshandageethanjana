@@ -1,185 +1,287 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:2563eb,100:38bdf8&height=280&section=header&text=Oshanda%20Geethanjana&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20%7C%20AI%20Engineer%20%7C%20Founder%20of%20WhiteCoder&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&height=290&section=header&text=Oshanda%20Geethanjana&fontSize=48&fontColor=ffffff&fontAlignY=37&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Founder&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Oshanda Geethanjana GitHub Header"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Engineering+premium+digital+experiences...;Building+robust+AI-powered+products...;Founder+of+WhiteCoder+and+HND+Study+Hub...;Learning+by+building.+Growing+by+shipping...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1200\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Building+modern+full-stack+digital+products;Creating+premium+and+user-focused+web+experiences;Exploring+AI-powered+tools+and+smart+workflows;Founder+of+WhiteCoder+and+HND+Study+Hub;Learning+by+building.+Growing+by+shipping.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oshandageethanjana.github.io/)
-[![WhiteCoder](https://img.shields.io/badge/WhiteCoder-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://www.whitecoder.online)
-[![HND%20Study%20Hub](https://img.shields.io/badge/HND%20Study%20Hub-0ea5e9?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.hndstudy.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshanda-geethanjana-725574336/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oshanda@whitecoder.online)
+<a href="https://oshanda.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://whitecoder.lk">
+  <img src="https://img.shields.io/badge/WhiteCoder-Official%20Site-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="WhiteCoder"/>
+</a>
+<a href="https://www.hndstudy.online">
+  <img src="https://img.shields.io/badge/HND%20Study%20Hub-Visit%20Platform-0284C7?style=for-the-badge&logo=bookstack&logoColor=white" alt="HND Study Hub"/>
+</a>
+<a href="https://www.linkedin.com/in/oshanda-geethanjana-725574336/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
----
-
-## `whoami`
-
-```yaml
-name: Oshanda Geethanjana
-role: Creative Developer / AI Engineer
-location: Sri Lanka
-focus:
-  - Premium Web Experiences
-  - Full-Stack Development
-  - AI-Powered Products
-  - Digital Platforms with Real-World Impact
-companies:
-  - WhiteCoder
-  - HND Study Hub
-mindset: "Learn by building. Grow by shipping."
-```
-
----
+<br/>
 
 ## About Me
 
-I’m **Oshanda Geethanjana**, a builder focused on creating **modern digital products**, **premium web interfaces**, and **AI-powered systems**.
+```yaml
+name: Oshanda Geethanjana
+role: Full-Stack Developer
+location: Sri Lanka
 
-I do not just write code to make things work.  
-I build products that are meant to feel **clean**, **useful**, **fast**, and **professionally crafted**.
+education:
+  institution: SLIATE - Hardy Advanced Technological Institute
+  programme: Higher National Diploma in Information Technology
 
-- Founder & Lead Developer at **WhiteCoder**
-- Founder of **HND Study Hub**
-- Passionate about **Artificial Intelligence**, **modern frontend systems**, and **real product development**
-- IT Undergraduate at **SLIATE (Hardy ATI)**
-- **TECHNOVATION '25** Design Contest Winner
+founder_of:
+  - WhiteCoder
+  - HND Study Hub
+
+interests:
+  - Full-Stack Web Development
+  - Artificial Intelligence
+  - UI/UX Engineering
+  - SaaS and Digital Products
+  - Real-World Business Systems
+
+mindset: "Learn by building. Grow by shipping."
+```
+
+I am an IT undergraduate and developer focused on creating **modern, reliable and user-centered digital products**.
+
+My work combines full-stack development, clean interface design, database architecture and practical AI integrations. I enjoy transforming real-world ideas into systems that are functional, visually refined and ready to create meaningful impact.
+
+* Founder and Lead Developer at **WhiteCoder**
+* Founder of **HND Study Hub**
+* IT Undergraduate at **SLIATE – Hardy ATI**
+* Focused on modern full-stack platforms and AI-powered solutions
+* Interested in building digital products for businesses, students and communities
+* Winner of the **TECHNOVATION ’25 Design Contest**
 
 ---
 
-## Core Expertise
+## What I Do
 
 <div align="center">
 
-| Area | Focus |
-|------|-------|
-| Frontend | Premium UI, responsive layouts, animation, interactive experiences |
-| Backend | PHP systems, authentication, CRUD platforms, API integration |
-| Database | MySQL architecture, admin systems, data-driven apps |
-| Product Design | Clean interfaces, modern layouts, UX thinking |
-| AI | AI-powered tools, smart workflows, practical integrations |
-| Branding | Building digital ecosystems around strong product identity |
+| Area                       | What I Focus On                                                  |
+| :------------------------- | :--------------------------------------------------------------- |
+| **Full-Stack Development** | Building complete web applications from interface to database    |
+| **Frontend Engineering**   | Responsive layouts, animations and premium user experiences      |
+| **Backend Development**    | Secure authentication, business logic, APIs and system workflows |
+| **Database Design**        | Structured MySQL databases and data-driven applications          |
+| **AI Integration**         | Practical AI tools, smart features and automated workflows       |
+| **Product Design**         | Clean interfaces, brand consistency and user-focused experiences |
 
 </div>
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 <div align="center">
 
 ### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=mysql&logoColor=white)
 
-### Frontend & UI
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
-![GSAP](https://img.shields.io/badge/GSAP-111827?style=flat-square&logo=greensock&logoColor=88CE02)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-1e293b?style=flat-square&logo=google-chrome&logoColor=white)
-
-### Backend & Database
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0f172a?style=flat-square&logo=fastapi&logoColor=white)
-![CRUD Systems](https://img.shields.io/badge/CRUD%20Systems-1e293b?style=flat-square&logo=serverless&logoColor=white)
-![Authentication](https://img.shields.io/badge/Auth-2563eb?style=flat-square&logo=auth0&logoColor=white)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0f172a?style=flat-square&logo=openai&logoColor=white)
-![Smart Applications](https://img.shields.io/badge/Smart%20Applications-1e293b?style=flat-square&logo=googlebard&logoColor=white)
-![SaaS Products](https://img.shields.io/badge/SaaS%20Products-2563eb?style=flat-square&logo=cloudflare&logoColor=white)
-![Creative Development](https://img.shields.io/badge/Creative%20Development-38bdf8?style=flat-square&logo=webflow&logoColor=0f172a)
-
-</div>
-
----
-
-## Featured Projects
-
-### WhiteCoder
-A digital studio focused on modern websites, smart systems, AI-powered tools, and premium digital experiences.
-
-### HND Study Hub
-A student-focused platform created to make academic resources easier to access and more useful for higher education students.
-
-### Product Ecosystem
-- **WhiteCoder Copilot**
-- **FOLIO**
-- **WCProbe**
-- **CineHub Pro**
-- **ResumeIQ**
-- **HND Study Hub**
-
----
-
-## Developer Mindset
-
-```txt
-Build with clarity.
-Design with intention.
-Ship with confidence.
-Improve continuously.
-```
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oshandageethanjana&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshandageethanjana&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql&theme=dark" alt="Programming Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=oshandageethanjana&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,threejs&theme=dark" alt="Frontend Technologies"/>
+
+<br/><br/>
+
+<p>
+  <img src="https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Responsive Design"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Engineering-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="UI UX Engineering"/>
+</p>
+
+### Backend and Database
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-1E293B?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/REST%20API-1E293B?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Authentication-1E293B?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication"/>
+  <img src="https://img.shields.io/badge/CRUD%20Systems-1E293B?style=for-the-badge&logo=databricks&logoColor=white" alt="CRUD Systems"/>
+</p>
+
+### Tools and Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,wordpress&theme=dark" alt="Development Tools"/>
 
 </div>
 
 ---
 
-## GitHub Activity Graph
+## Featured Platforms
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Oshanda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oshandageethanjana&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/oshandageethanjana)
+### WhiteCoder
 
-</div>
+A digital solutions brand focused on building modern websites, management systems, creative digital experiences and AI-powered products.
+
+**Main Areas**
+
+* Business websites
+* Web-based management systems
+* Portfolio platforms
+* Automation solutions
+* AI-assisted digital tools
+* UI/UX and brand experiences
+
+<a href="https://whitecoder.lk">
+  <img src="https://img.shields.io/badge/Explore%20WhiteCoder-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore WhiteCoder"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### HND Study Hub
+
+An educational platform created to make academic resources easier to access for Higher National Diploma students.
+
+**Main Areas**
+
+* Lecture materials
+* Short notes
+* Academic announcements
+* Student resources
+* Assignment support
+* Learning communities
+
+<a href="https://www.hndstudy.online">
+  <img src="https://img.shields.io/badge/Visit%20HND%20Study%20Hub-0284C7?style=for-the-badge&logo=bookstack&logoColor=white" alt="Visit HND Study Hub"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Trophies
+## Selected Projects and Products
 
-<div align="center">
+### FixMate
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oshandageethanjana&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+A digital automobile service and spare-parts management platform designed for service centers, mechanics, administrators and customers.
 
-</div>
+`PHP` `MySQL` `Tailwind CSS` `Three.js` `Chart.js`
+
+### WhiteCoder Copilot
+
+An AI-focused assistant concept designed to improve digital workflows, productivity and access to smart tools.
+
+`Artificial Intelligence` `Automation` `Product Design`
+
+### FOLIO
+
+A modern portfolio platform focused on showcasing professional identity, projects, experience and creative work.
+
+`Frontend Development` `UI/UX` `Responsive Design`
+
+### ResumeIQ
+
+A smart resume-building concept focused on professional CV creation, ATS-friendly formatting and career presentation.
+
+`AI Tools` `Resume Technology` `SaaS`
+
+### HND Study Hub
+
+A complete student-focused learning platform offering academic materials, short notes and educational resources.
+
+`PHP` `MySQL` `Education Technology`
+
+### Emergency SOS Platform
+
+A location-based emergency assistance system with service discovery, real-time tracking and emergency request management.
+
+`Geolocation` `Maps` `PHP` `MySQL`
+
+---
+
+## Development Philosophy
+
+```text
+Understand the real problem.
+
+Design with clarity.
+
+Build with purpose.
+
+Test with real users in mind.
+
+Ship, learn and improve continuously.
+```
+
+I believe a successful product should not only function correctly. It should also feel clear, trustworthy, responsive and professionally crafted.
 
 ---
 
 ## Current Focus
 
-- Building better **AI-driven products**
-- Designing cleaner **premium portfolio systems**
-- Developing **real-world full-stack platforms**
-- Improving student-centered digital solutions
-- Growing **WhiteCoder** into a stronger product brand
+* Developing production-ready full-stack web platforms
+* Exploring practical Artificial Intelligence integrations
+* Improving advanced PHP and MySQL system architecture
+* Creating premium and responsive user interfaces
+* Building digital solutions for real Sri Lankan businesses
+* Expanding WhiteCoder into a stronger technology brand
+* Improving educational access through HND Study Hub
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=oshandageethanjana&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="Oshanda's GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshandageethanjana&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1&langs_count=8" alt="Oshanda's Most Used Languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=oshandageethanjana&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Oshanda's GitHub Streak"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Oshanda's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oshandageethanjana\&bg_color=020617\&color=CBD5E1\&line=38BDF8\&point=FFFFFF\&area=true\&area_color=0EA5E9\&hide_border=true\&custom_title=Oshanda%20Geethanjana%27s%20Contribution%20Activity)](https://github.com/oshandageethanjana)
+
+</div>
+
+---
+
+## GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=oshandageethanjana&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## Beyond Code
+
+Technology is not only about writing code. It is about understanding people, identifying real problems and creating solutions that make work or learning easier.
+
+Through **WhiteCoder**, I aim to build meaningful digital products and professional technology solutions.
+
+Through **HND Study Hub**, I aim to support students by making useful academic resources more accessible.
 
 ---
 
@@ -187,20 +289,30 @@ Improve continuously.
 
 <div align="center">
 
-<a href="https://oshandageethanjana.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://oshanda.com">
+  <img src="https://img.shields.io/badge/Portfolio-oshanda.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.whitecoder.online">
-  <img src="https://img.shields.io/badge/WhiteCoder-Official%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<a href="https://whitecoder.lk">
+  <img src="https://img.shields.io/badge/WhiteCoder-whitecoder.lk-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="WhiteCoder"/>
 </a>
+
 <a href="https://www.hndstudy.online">
-  <img src="https://img.shields.io/badge/HND%20Study%20Hub-Live%20Platform-0ea5e9?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/HND%20Study%20Hub-hndstudy.online-0284C7?style=for-the-badge&logo=bookstack&logoColor=white" alt="HND Study Hub"/>
 </a>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/oshanda-geethanjana-725574336/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Oshanda%20Geethanjana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:oshanda@whitecoder.online">
-  <img src="https://img.shields.io/badge/Email-oshanda%40whitecoder.online-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/oshandageethanjana">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -210,15 +322,19 @@ Improve continuously.
 ## Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oshandageethanjana&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=oshandageethanjana&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### `Crafting digital experiences with vision, motion, and code.`
+### Building meaningful digital products through creativity, technology and code.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:1d4ed8,100:020617&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
